@@ -10,7 +10,7 @@ This report will include some efforts to infer some data about cars from 1985 Wa
 
 ### Libraries
 
-You will need to install the `word2number` [module](https://pypi.org/project/word2number/) using the below command
+You will need to install the `word2number` [module](https://pypi.org/project/word2number/) using the below command<br>
 `pip install word2number`
 
 The below are the libraries used
